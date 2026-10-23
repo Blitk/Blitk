@@ -76,6 +76,13 @@ Mini SIEM experimental para ingestão de logs, processamento de eventos de segur
 
 Ferramenta CLI para análise de APIs REST, verificações automatizadas de segurança e geração de relatórios.
 
+### [Armadillo](https://github.com/Blitk/Armadillo)
+
+**Python · Linux · BlueTeam · Security**
+
+Ferramenta CLI automatizada de auditoria de hardening e conformidade de servidores Linux (Local e Remoto).
+
+
 ### [Arduino-3D-Lab](https://github.com/Blitk/Arduino-3D-Lab)
 
 **C++ · CMake · OpenGL**
