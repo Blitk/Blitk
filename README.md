@@ -94,6 +94,8 @@ Projeto experimental de simulador 3D de Arduino, explorando programação em C++
 
 ## 🌐 Connect with Me
 
+[![Énóis](https://img.shields.io/badge/Enois_IA-Perfil-7C3AED?style=for-the-badge)](https://enois.ia.br/perfil/raphael-rodrigues-oliveira)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/raphael-rodrigues-oliveira-b5675a174/)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00A98F?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://blitk.github.io)
