@@ -82,6 +82,11 @@ Ferramenta CLI para análise de APIs REST, verificações automatizadas de segur
 
 Ferramenta CLI automatizada de auditoria de hardening e conformidade de servidores Linux (Local e Remoto).
 
+### [RageAgainstTheMachine](https://github.com/Blitk/RageAgainstTheMachine)
+
+**C · Linux · RedTeam · Pentest · Cybersecurity**
+
+Framework de Reconhecimento Interno de Alta Performance e Evasão de Controles, projetado para cenários de Assumed Breach.
 
 ### [Arduino-3D-Lab](https://github.com/Blitk/Arduino-3D-Lab)
 
