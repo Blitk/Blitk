@@ -70,6 +70,18 @@ Busco evoluir por meio de projetos práticos, explorando desde aplicações back
 
 Mini SIEM experimental para ingestão de logs, processamento de eventos de segurança e detecção de atividades suspeitas.
 
+### [ProductCatalog API](https://github.com/Blitk/ProductCatalog-API)
+
+**Java 21 · Spring Boot · Maven · PostgreSQL · REST API**
+
+API REST para gerenciamento de catálogo de produtos e categorias, com operações CRUD, paginação, filtros, validações, upload de imagens e persistência em PostgreSQL.
+
+### [ProductCatalog Frontend](https://github.com/Blitk/ProductCatalog-Frontend)
+
+**HTML5 · CSS3 · JavaScript · Vanilla JS**
+
+Interface web responsiva integrada à API ProductCatalog, com vitrine pública para consulta de produtos e painel administrativo para gerenciamento de produtos e categorias.
+
 ### [OctopusJar](https://github.com/Blitk/OctopusJar)
 
 **Python · HTTPX · Typer · Pytest**
